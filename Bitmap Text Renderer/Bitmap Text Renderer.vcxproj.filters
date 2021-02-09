@@ -26,5 +26,8 @@
     <ClInclude Include="Code\TextRenderer.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Code\ColourPalette.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
